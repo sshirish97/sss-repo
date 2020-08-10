@@ -1,5 +1,6 @@
 command = ""
 stopped = True
+
 while True:
     command = input("> ").lower()
     if command == "help":
